@@ -1,1 +1,1 @@
-These are some few emacs commnds to try out
+These are some few emacs commands to try out.
